@@ -14,3 +14,4 @@ while running:
 else:
     print('The while loop is over') # break구문 사용시 else는 작동안됨
 print('Done')
+print('t')
